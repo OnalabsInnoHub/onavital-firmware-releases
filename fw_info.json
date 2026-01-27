@@ -1,9 +1,9 @@
 {
   "firmware": [
     {
-      "version": "core-2.0.0dev18",
-      "md5sum": "48a4539bb54ebf35bd5e2058795e3e0d",
-      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/Onavital_18.sfb"
+      "version": "core-3.0.0",
+      "md5sum": "f991183d2c570332c9de33af7360d838",
+      "url": "https://github.com/SamLizzie30/onavital_fw_releases/raw/refs/heads/main/DEV_Onavital_core-3.0.0.sfb"
     }
   ]
 }
