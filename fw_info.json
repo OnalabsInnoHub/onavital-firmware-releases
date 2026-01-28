@@ -1,9 +1,9 @@
 {
   "firmware": [
     {
-      "version": "core-3.0.0",
-      "md5sum": "2aff31f742d381ab42c144b3fc91216e",
-      "url": "https://github.com/OnalabsInnoHub/onavital-firmware-releases/raw/refs/heads/master/DEV_Onavital_core-3.0.0.sfb"
+      "version": "core-2.0.0",
+      "md5sum": "a9ed6fc371e0480891ac3d02961dfd18",
+      "url": "https://github.com/OnalabsInnoHub/onavital-firmware-releases/raw/refs/heads/master/OnavitalDEV2p0p0.sfb"
     }
   ]
 }
