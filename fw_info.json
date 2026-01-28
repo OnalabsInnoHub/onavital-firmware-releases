@@ -1,7 +1,7 @@
 {
   "firmware": [
     {
-      "version": "core-q.0.0",
+      "version": "core-2.0.0",
       "md5sum": "252558a2a2651fa714e9179eda16d0d9",
       "url": "https://github.com/OnalabsInnoHub/onavital-firmware-releases/raw/refs/heads/master/OnavitalPROD2p0p0.sfb"
     }
